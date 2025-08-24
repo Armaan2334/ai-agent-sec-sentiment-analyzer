@@ -1,0 +1,16 @@
+{
+  "creators": {
+    "elonmusk": {
+      "text": "Recent activity by elonmusk related to markets.",
+      "sentiment": "The sentiment of the text appears to be neutral. It mentions \"recent activity by elonmusk related to markets\" without expressing a positive or negative opinion. The statement is factual and straightforward, lacking any emotional language or bias."
+    }
+  },
+  "insider_trading": [
+    {
+      "insider": "John Doe",
+      "company": "XYZ Corp",
+      "activity": "Sold 50,000 shares"
+    }
+  ],
+  "generated_on": "2025-08-23 17:38:23.869860"
+}
